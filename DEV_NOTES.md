@@ -17,3 +17,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-13
 - Updated dependencies to latest stable versions
+
+## 2026-04-13
+- Added basic usage examples to README
+- Updated .gitignore to exclude build artifacts
+- Refactored module structure for clarity
